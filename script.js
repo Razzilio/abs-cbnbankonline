@@ -1,5 +1,5 @@
 // Hardcoded explicit endpoint port variable target to bypass origins CORS connection errors
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "http://127.0.0.1:8000/docs";
 
 let activeSession = null;
 let activeNetwork = "ABS-CBN Internal";
